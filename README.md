@@ -1,0 +1,1 @@
+# trilha_SQL_dbt_Core

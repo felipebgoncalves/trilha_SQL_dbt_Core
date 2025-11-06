@@ -1,1 +1,1 @@
-# trilha_SQL_dbt_Core
+# trilha_SQL e dbt_Core

@@ -1,7 +1,7 @@
 -- 1. Obter todas as colunas das tabelas Clientes, Pedidos e Fornecedores
 SELECT * FROM customers;
 SELECT * FROM orders;
-SELECT * FROM supplier;
+SELECT * FROM suppliers;
 
 -- 2. Obter todos os Clientes em ordem alfabética por país e nome
 
